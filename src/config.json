@@ -1,0 +1,54 @@
+{
+    "A+": {
+        "Honors/AP": 5.83,
+        "Regular": 5.33
+    },
+    "A": {
+        "Honors/AP": 5.5,
+        "Regular": 5.0
+    },
+    "A-": {
+        "Honors/AP": 5.17,
+        "Regular": 4.67
+    },
+    "B+": {
+        "Honors/AP": 4.83,
+        "Regular": 4.33
+    },
+    "B": {
+        "Honors/AP": 4.5,
+        "Regular": 4
+    },
+    "B-": {
+        "Honors/AP": 4.17,
+        "Regular": 3.67
+    },
+    "C+": {
+        "Honors/AP": 3.83,
+        "Regular": 3.33
+    },
+    "C": {
+        "Honors/AP": 3.5,
+        "Regular": 3.0
+    },
+    "C-": {
+        "Honors/AP": 3.17,
+        "Regular": 2.67
+    },
+    "D+": {
+        "Honors/AP": 2.83,
+        "Regular": 2.33
+    },
+    "D": {
+        "Honors/AP": 2.5,
+        "Regular": 2.0
+    },
+    "D-": {
+        "Honors/AP": 2.17,
+        "Regular": 1.67
+    },
+    "F": {
+        "Honors/AP": 0,
+        "Regular": 0
+    }
+}
