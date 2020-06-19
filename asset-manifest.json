@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lf-gpa/static/css/main.88c81c58.chunk.css",
+    "main.js": "/lf-gpa/static/js/main.72c7b440.chunk.js",
+    "main.js.map": "/lf-gpa/static/js/main.72c7b440.chunk.js.map",
+    "runtime-main.js": "/lf-gpa/static/js/runtime-main.b41c573d.js",
+    "runtime-main.js.map": "/lf-gpa/static/js/runtime-main.b41c573d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/lf-gpa/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2ffc2fba.chunk.js": "/lf-gpa/static/js/2.2ffc2fba.chunk.js",
+    "static/js/2.2ffc2fba.chunk.js.map": "/lf-gpa/static/js/2.2ffc2fba.chunk.js.map",
+    "index.html": "/lf-gpa/index.html",
+    "precache-manifest.52d24e492a74df845e1c587cd0b2c954.js": "/lf-gpa/precache-manifest.52d24e492a74df845e1c587cd0b2c954.js",
+    "service-worker.js": "/lf-gpa/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/lf-gpa/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.88c81c58.chunk.css.map": "/lf-gpa/static/css/main.88c81c58.chunk.css.map",
+    "static/js/2.2ffc2fba.chunk.js.LICENSE.txt": "/lf-gpa/static/js/2.2ffc2fba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b41c573d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2ffc2fba.chunk.js",
+    "static/css/main.88c81c58.chunk.css",
+    "static/js/main.72c7b440.chunk.js"
+  ]
+}
